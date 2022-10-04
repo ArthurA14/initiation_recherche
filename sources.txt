@@ -1,0 +1,41 @@
+
+> Google Scholar - recherche par mots-clés suivants : 
+"CLASSIFICATION D'UN SPECTRE DE SIGNAL MACHINE LEARNING" :
+"CLASSIFICATION WAVE SIGNALS MACHINE LEARNING" :  
+
+> Résultats obtenus : 
+
+CLASSIFICATION DES SIGNAUX AUDIOS ÉMIS EN TEMPS RÉEL : 
+https://hal.archives-ouvertes.fr/hal-01592496/document
+
+REAL-TIME GESTURE DETECTION BASED ON MACHINE LEARNING CLASSIFICATION OF CONTINUOUS WAVE RADAR SIGNALS (payant) : 
+https://ieeexplore.ieee.org/abstract/document/9296845 -> PDF
+
+Predictive Estimation of Optimal Signal Strength from Drones over IoT Frameworks in Smart Cities (payant) : 
+https://ieeexplore.ieee.org/abstract/document/9410462 -> PDF
+
+..................................................................................................................
+
+Secondaire : 
+
+COURS TRAITEMENT SIGNAL + ML (Modélisation temporelle) : 
+http://www.laurentoudre.fr/signalml/Seance1.pdf
+
+L’INTELLIGENCE ARTIFICIELLE ET LA DÉTECTION DE SON : 
+https://scient.fr/article-lintelligence-artificielle-et-la-detection-de-son/
+
+..................................................................................................................
+
+Tertiaire : 
+
+IOT SECURITY TECHNIQUES BASED ON MACHINE LEARNING: HOW DO IOT DEVICES USE AI TO ENHANCE SECURITY ? (payant) : 
+https://ieeexplore.ieee.org/abstract/document/8454402
+
+CLASSIFICATION DES SIGNAUX SUR GRAPHES PAR MESURES SPECTRALES ALGÉBRIQUES : 
+https://au-193-34.rev.ensam.fr/bitstream/handle/10985/15022/IRENAV_GRETSI_2017_BAYAHMED.pdf?sequence=1&isAllowed=y
+
+SÉLECTION DE DESCRIPTEURS AUDIO POUR LA CLASSIFICATION DES SONS ENVIRONNEMENTAUX AVEC DES SVMS MONO-CLASSE : 
+https://www.researchgate.net/profile/Zied-Lachiri-2/publication/27612202_Selection_de_descripteurs_audio_pour_la_classification_des_sons_environnementaux_avec_des_SVMs_mono-classe/links/0fcfd505a0d1b35057000000/Selection-de-descripteurs-audio-pour-la-classification-des-sons-environnementaux-avec-des-SVMs-mono-classe.pdf
+
+VULGARISATION IA IOT ENVIRONNEMENT : 
+https://holytech.fr/intelligence-artificielle-internet-des-objets-protection-environnement/
