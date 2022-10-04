@@ -14,9 +14,15 @@ https://ieeexplore.ieee.org/abstract/document/9296845 -> PDF
 Predictive Estimation of Optimal Signal Strength from Drones over IoT Frameworks in Smart Cities (payant) : 
 https://ieeexplore.ieee.org/abstract/document/9410462 -> PDF
 
+MACHINE LEARNING BASED OBJECT CLASSIFICATION AND IDENTIFICATION SCHEME USING AN EMBEDDED MILLIMETER-WAVE RADAR SENSOR :
+https://www.mdpi.com/1424-8220/21/13/4291 -> PDF 
+
 ..................................................................................................................
 
 Secondaire : 
+
+PART 1-EDA-AUDIO CLASSIFICATION PROJECT USING DEEP LEARNING (Youtube) : 
+https://www.youtube.com/watch?v=mHPpCXqQd7Y
 
 COURS TRAITEMENT SIGNAL + ML (Modélisation temporelle) : 
 http://www.laurentoudre.fr/signalml/Seance1.pdf
@@ -24,12 +30,20 @@ http://www.laurentoudre.fr/signalml/Seance1.pdf
 L’INTELLIGENCE ARTIFICIELLE ET LA DÉTECTION DE SON : 
 https://scient.fr/article-lintelligence-artificielle-et-la-detection-de-son/
 
+....................
+
+IOT SECURITY TECHNIQUES BASED ON MACHINE LEARNING: HOW DO IOT DEVICES USE AI TO ENHANCE SECURITY ? (payant - pas d'accès) : 
+https://ieeexplore.ieee.org/abstract/document/8454402
+
+Surveying the reach and maturity of machine learning and artificial intelligence in astronomy (payant - pas d'accès) : 
+https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/widm.1349
+
+A NOVEL BLOOD PRESSURE ESTIMATION METHOD BASED ON THE CLASSIFICATION OF OSCILLOMETRIC WAVEFORMS USING MACHINE-LEARNING METHODS (payant - pas d'accès) : 
+https://www.sciencedirect.com/science/article/abs/pii/S0003682X20300013
+
 ..................................................................................................................
 
 Tertiaire : 
-
-IOT SECURITY TECHNIQUES BASED ON MACHINE LEARNING: HOW DO IOT DEVICES USE AI TO ENHANCE SECURITY ? (payant) : 
-https://ieeexplore.ieee.org/abstract/document/8454402
 
 CLASSIFICATION DES SIGNAUX SUR GRAPHES PAR MESURES SPECTRALES ALGÉBRIQUES : 
 https://au-193-34.rev.ensam.fr/bitstream/handle/10985/15022/IRENAV_GRETSI_2017_BAYAHMED.pdf?sequence=1&isAllowed=y
