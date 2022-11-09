@@ -9,7 +9,7 @@ doi = numéro d'article universel de l'article
 
 Sujet 1 : Livre blanc blockchains et développement durable : 
 
-Sujet 2 : Classification de signaux audio en temps-réel : -> sujet retenu
+Sujet 2 : Classification de signaux audio et détection gestuelle en temps-réel : -> sujet retenu
 
 ................................................................
 
