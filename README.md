@@ -38,16 +38,17 @@ Existant :
             difficulté à réaliser une classification par espèce
 
 Notre solution : 
-classification des signaux audios émis par les espèces, 
-d'après l'étude des spectres de fréquences, à l'intérieur d'un périmètre circonscrit
-que l'on veut sécuriser.
+classification des signaux audios émis par les espèces, et détection gestuelle (signaux radar à ondes continues), 
+d'après l'étude des formes d'onde, à l'intérieur d'un périmètre circonscrit
+que l'on veut sécuriser. (CNN)
 
--> Classification d'un spectre de signal machine learning
--> Classification des signaux audios émis en temps réel
+-> Classification de formes d'onde machine learning
+-> Classification des signaux audios émis en temps réel et détection gestuelle
 
 Bonus : 
-+ computer vision (classification d'images)
++ computer vision (classification d'images) :
 + détecteur de température (filtres de Kalman), à l'intérieur d'un périmètre circonscrit
 que l'on veut sécuriser.
 + détecteur de mouvement externe au périmètre circonscrit que l'on veut sécuriser.
 
+Spectre de fréquence, d'onde, de signal
