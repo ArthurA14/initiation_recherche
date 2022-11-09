@@ -1,17 +1,25 @@
 
 > Google Scholar - recherche par mots-clés suivants : 
-"CLASSIFICATION D'UN SPECTRE DE SIGNAL MACHINE LEARNING" :
+"CLASSIFICATION DE SIGNAUX D'ONDES MACHINE LEARNING" :
 "CLASSIFICATION WAVE SIGNALS MACHINE LEARNING" :  
+"classification sound wave machine learning" :
 
 > Résultats obtenus : 
 
 CLASSIFICATION DES SIGNAUX AUDIOS ÉMIS EN TEMPS RÉEL : 
 https://hal.archives-ouvertes.fr/hal-01592496/document
 
+Sound Classification Using Convolutional Neural
+Network and Tensor Deep Stacking Network :
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8605515  -> PDF
+
+soundClass: An automatic sound classification tool for biodiversity monitoring using machine learning :
+-> PDF
+
 REAL-TIME GESTURE DETECTION BASED ON MACHINE LEARNING CLASSIFICATION OF CONTINUOUS WAVE RADAR SIGNALS (payant) : 
 https://ieeexplore.ieee.org/abstract/document/9296845 -> PDF
 
-Predictive Estimation of Optimal Signal Strength from Drones over IoT Frameworks in Smart Cities (payant) : 
+PREDICTIVE ESTIMATION OF OPTIMAL SIGNAL STRENGTH FROM DRONES OVER IOT FRAMEWORKS IN SMART CITIES (payant) : 
 https://ieeexplore.ieee.org/abstract/document/9410462 -> PDF
 
 MACHINE LEARNING BASED OBJECT CLASSIFICATION AND IDENTIFICATION SCHEME USING AN EMBEDDED MILLIMETER-WAVE RADAR SENSOR :
@@ -20,6 +28,9 @@ https://www.mdpi.com/1424-8220/21/13/4291 -> PDF
 ..................................................................................................................
 
 Secondaire : 
+
+Music Genre Classification using Machine Learning Techniques
+https://arxiv.org/abs/1804.01149  -> PDF
 
 PART 1-EDA-AUDIO CLASSIFICATION PROJECT USING DEEP LEARNING (Youtube) : 
 https://www.youtube.com/watch?v=mHPpCXqQd7Y
@@ -53,3 +64,11 @@ https://www.researchgate.net/profile/Zied-Lachiri-2/publication/27612202_Selecti
 
 VULGARISATION IA IOT ENVIRONNEMENT : 
 https://holytech.fr/intelligence-artificielle-internet-des-objets-protection-environnement/
+
+..................................................................................................................
+
+Sujet connexe : 
+"classification wave music signals machine learning" :  
+
+Automatic Music Genre Classification of Audio Signals with Machine Learning Approaches
+https://link.springer.com/article/10.7603/s40601-013-0014-0 -> PDF
