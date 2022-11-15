@@ -1,41 +1,56 @@
 
 > Google Scholar - recherche par mots-clés suivants : 
-"CLASSIFICATION DE SIGNAUX D'ONDES MACHINE LEARNING" :
-"CLASSIFICATION WAVE SIGNALS MACHINE LEARNING" :  
+"classification de signaux d'ondes machine learning" :
+"classification wave signals machine learning" :  
 "classification sound wave machine learning" :
+"classification gesture detection machine learning" 
 
 > Résultats obtenus : 
 
-CLASSIFICATION DES SIGNAUX AUDIOS ÉMIS EN TEMPS RÉEL : 
-https://hal.archives-ouvertes.fr/hal-01592496/document
-
-Sound Classification Using Convolutional Neural
-Network and Tensor Deep Stacking Network :
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8605515  -> PDF
-
-soundClass: An automatic sound classification tool for biodiversity monitoring using machine learning :
--> PDF
-
-REAL-TIME GESTURE DETECTION BASED ON MACHINE LEARNING CLASSIFICATION OF CONTINUOUS WAVE RADAR SIGNALS (payant) : 
+1. real-time gesture detection based on machine learning classification of continuous wave radar signals (payant) : 
 https://ieeexplore.ieee.org/abstract/document/9296845 -> PDF
 
-PREDICTIVE ESTIMATION OF OPTIMAL SIGNAL STRENGTH FROM DRONES OVER IOT FRAMEWORKS IN SMART CITIES (payant) : 
-https://ieeexplore.ieee.org/abstract/document/9410462 -> PDF
-
-MACHINE LEARNING BASED OBJECT CLASSIFICATION AND IDENTIFICATION SCHEME USING AN EMBEDDED MILLIMETER-WAVE RADAR SENSOR :
+2. machine learning based object classification and identification scheme using an embedded millimeter-wave radar sensor :
 https://www.mdpi.com/1424-8220/21/13/4291 -> PDF 
+
+3. Gesture Classification with Machine Learning using Kinect Sensor Data :
+https://www.researchgate.net/publication/261036145_Gesture_classification_with_machine_learning_using_Kinect_sensor_data -> PDF
+
+4. A Deep Learning-Based End-to-End Composite System for Hand Detection and Gesture Recognition : 
+https://www.mdpi.com/1424-8220/19/23/5282 -> PDF
+
+5. Multi-scale Deep Learning for Gesture Detection and Localization :
+https://link.springer.com/chapter/10.1007/978-3-319-16178-5_33 -> PDF
+
+6. Robust Hand Detection and Classification in Vehicles and in the Wild :
+https://openaccess.thecvf.com/content_cvpr_2017_workshops/w13/html/Le_Robust_Hand_Detection_CVPR_2017_paper.html -> PDF
+
+7. Falling motion detection algorithm based on deep learning : 
+https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12208 -> PDF
+
+8. soundClass: An automatic sound classification tool for biodiversity monitoring using machine learning :
+https://www.researchgate.net/publication/363095066_soundClass_An_automatic_sound_classification_tool_for_biodiversity_monitoring_using_machine_learning -> PDF
+
+9. Sound Classification Using Convolutional Neural Network and Tensor Deep Stacking Network :
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8605515  -> PDF
+
+10. Predictive Estimation of Optimal Signal Strength from Drones over IoT Frameworks in Smart Cities (payant) : 
+https://ieeexplore.ieee.org/abstract/document/9410462 -> PDF
 
 ..................................................................................................................
 
 Secondaire : 
 
+classification des signaux audios émis en temps réel : 
+https://hal.archives-ouvertes.fr/hal-01592496/document
+
 Music Genre Classification using Machine Learning Techniques
 https://arxiv.org/abs/1804.01149  -> PDF
 
-PART 1-EDA-AUDIO CLASSIFICATION PROJECT USING DEEP LEARNING (Youtube) : 
+part 1-eda-audio classification project using deep learning (youtube) : 
 https://www.youtube.com/watch?v=mHPpCXqQd7Y
 
-COURS TRAITEMENT SIGNAL + ML (Modélisation temporelle) : 
+cours traitement signal + ml (modélisation temporelle) : 
 http://www.laurentoudre.fr/signalml/Seance1.pdf
 
 L’INTELLIGENCE ARTIFICIELLE ET LA DÉTECTION DE SON : 
